@@ -40,9 +40,7 @@ This project is a robust authentication system built using **Node.js**, **Expres
 ```
 authentication-project
 │
-├── controllers     # Handles business logic
-├── models          # Mongoose models for MongoDB
-├── routes          # API route definitions
+├── public          # Static files like CSS, JS, and images
 ├── views           # EJS templates
 ├── package.json    # Project metadata and dependencies
 ├── README.md       # Project documentation
